@@ -18,3 +18,8 @@ console.log(typeof(required))
 let f = a+c
 console.log(f)
 console.log(!required)
+
+    
+ 
+ 
+ 
